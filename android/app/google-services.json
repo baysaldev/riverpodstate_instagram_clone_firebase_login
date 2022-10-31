@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "533279929828",
+    "project_id": "instagram-db77f",
+    "storage_bucket": "instagram-db77f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533279929828:android:bf44c7eb29bfaa456c03f1",
+        "android_client_info": {
+          "package_name": "com.example.deneme_instagram1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533279929828-22kcvrvng601fos5i4hr1ieiv0fnvs65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.deneme_instagram1",
+            "certificate_hash": "7e6722f0110d1163fef2c654ff53bff2ac1a21c8"
+          }
+        },
+        {
+          "client_id": "533279929828-583lrcrpv9bg57nq81bbd7s50debg2pg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmPpXaB3aNUkSNYcB3Y2tFc-Bm448PFjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533279929828-583lrcrpv9bg57nq81bbd7s50debg2pg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
